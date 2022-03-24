@@ -1,0 +1,23 @@
+{
+  "name": "users-api-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://localhost:3000/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "http://localhost:3000/"
+  },
+  "homepage": "http://localhost:3000/",
+  "dependencies": {
+    "json-server": "^0.16.2"
+  }
+}
